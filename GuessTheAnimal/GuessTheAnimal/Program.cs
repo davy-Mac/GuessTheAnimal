@@ -23,7 +23,7 @@ namespace GuessTheAnimal
         static void NewGame()
         {
 
-            Console.WriteLine("Initializing.");
+            Console.WriteLine("Loading....");
 
             Thread.Sleep(1000);
             ConsoleColor oldColor = Console.ForegroundColor;

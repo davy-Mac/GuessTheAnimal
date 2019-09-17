@@ -57,7 +57,7 @@ namespace GuessTheAnimal
             if (chrInput == 'y')
             {
                 Console.ForegroundColor = ConsoleColor.Red;
-                Console.Write("Game Won...");
+                Console.Write("Game Won...!");
                 Console.ReadLine();
             }
                 
